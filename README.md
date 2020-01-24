@@ -1,6 +1,6 @@
 # PopularMovies - Android App - Stage 2
 
-Popular Movies app - Stage 2 - As part of Udacity Android nanodegree assignment.
+Popular-Movie2 app as part of  Android nanodegree assignment.
 
 This app uses service - http://api.themoviedb.org/3/movie/popular to fetch most popular / highest rated movies and display to the user.
 user can change sort order from settings menu
